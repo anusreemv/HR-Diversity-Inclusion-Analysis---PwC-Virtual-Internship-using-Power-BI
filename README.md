@@ -88,3 +88,20 @@ Shows the average performance rating of female employees for FY20.
 ---
 
 ## 📸 Dashboard Preview
+
+### 🏠 Home Page
+![Home Page](Home.png)
+
+### 👥 Hiring Analysis
+![Hiring Page](Hire.png)
+
+### 👋 Resignation Analysis
+![Resignation Page](Resign.png)
+
+### 📈 Performance Review
+![Performance Page](Performance.png)
+
+### 🚀 Promotion Analysis
+![Promotion Page](Promotion.png)
+
+---
